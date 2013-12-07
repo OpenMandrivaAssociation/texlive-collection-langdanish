@@ -7,7 +7,7 @@
 Name:		texlive-collection-langdanish
 Epoch:		1
 Version:	20120224
-Release:	4
+Release:	5
 Summary:	Danish
 Group:		Publishing
 URL:		http://tug.org/texlive
